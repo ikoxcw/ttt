@@ -1,0 +1,12 @@
+nixos\tnix\t2
+nix\tnix\t1
+flakes\tflake\t2
+home\-manager\thome\t3
+ikoxcw\tiko\t1
+Aleksana\talek\t1
+Ruixi-rebirth\truix\t1
+黄前久美子kumiko\thqjmz\t1
+KimmyXYC\tKim\t3
+termux\tter\t3
+hyprland\thypr\t1
+

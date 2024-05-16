@@ -1,0 +1,3 @@
+# rime_ice.custom.yaml
+patch:
+  translator/spelling_hints: 0
