@@ -24,15 +24,15 @@
 # 此行之后不能写注释
 hyprland	hypr	1
 termux	ter	3
-KimmyXYC	Kim	3
+KimmyXYC	kim	3
 黄前久美子kumiko	hqjmz	1
-Ruixi-rebirth	ruix	1
+Ruixi-rebirth	ruixi	1
 Aleksana	alek	1
 ikoxcw	iko	1
 home-manager	home	3
 flakes	flake	2
 nix	nix	1
-nixos	nix	2
+nixos	nixos	2
 
 
 
