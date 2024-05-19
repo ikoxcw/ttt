@@ -22,10 +22,14 @@
 # version: "2024-03-12"
 #
 # 此行之后不能写注释
+catppuccin	cat	1
+moegirl	moegirl	1
 hyprland	hypr	1
 termux	ter	3
-KimmyXYC	kim	3
 黄前久美子kumiko	hqjmz	1
+KimmyXYC	kim	3
+Isoheptane	qtwt	1
+ryan4yin	ryan	1
 Ruixi-rebirth	ruixi	1
 Aleksana	alek	1
 ikoxcw	iko	1
@@ -33,8 +37,6 @@ home-manager	home	3
 flakes	flake	2
 nix	nix	1
 nixos	nixos	2
-
-
 
 有	u	3
 又	u	2
@@ -47,13 +49,34 @@ nixos	nixos	2
 
 一个	ig
 有个	ug
+n
+
+
 是一个	sig
 有一个	uig
+n
+
+
 有一个	uyig
+n
+
+
 有一个	uyige
+n
+
+
 有没有	umu
+n
+
+
 有没有	umeiu
+n
+
+
 又有	uu
+n
+
+
 又又又	uuu
 又双叒叕	uuuu
 
